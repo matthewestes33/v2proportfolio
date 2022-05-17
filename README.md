@@ -18,6 +18,14 @@ The portfolio can be viewed here: https://matthewestes33.github.io/v2proportfoli
 
 ![Contact](./assets/images/comm.jpg)
 
+## Documentation
+
+Navbar: https://materializecss.com/navbar.html
+
+Grid (Container): https://materializecss.com/grid.html
+
+Footer: https://materializecss.com/footer.html 
+
 ## Features
 
 The user is presented with and updated portfolio page, with links to two exemplary homework assignments, and a communication page.
