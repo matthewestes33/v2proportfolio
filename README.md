@@ -8,7 +8,7 @@ This project creates a more professional portfolio page, with an eye toward bein
 
 All elements of this project are contained here: https://github.com/matthewestes33/v2proportfolio
 
-The portfolio can be viewed here: https://matthewestes33/github.io/v2proportfolio
+The portfolio can be viewed here: https://matthewestes33.github.io/v2proportfolio/
 
 ## Mock-Up
 
