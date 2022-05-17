@@ -1,23 +1,31 @@
 # v2proportfolio
 
-##homework 08: updated portfolio page
+## Homework 08: Updated Portfolio Page
 
-TEXT HERE
+This project creates a more professional portfolio page, with an eye toward being employer-competitive.
 
 ## Installation
 
-The updated portfolio page is here: https://matthewestes33.github.io/homework-2/
+All elements of this project are contained here: https://github.com/matthewestes33/v2proportfolio
 
-All elements of the project can be examined here: https://github.com/matthewestes33/homework-2
+The portfolio can be viewed here: https://matthewestes33/github.io/v2proportfolio
 
-## Mock-up
+## Mock-Up
 
-SCREENSHOT HERE
+![Main Page](./assets/images/index.jpg)
 
-## Referenced Tutorials
+![Portfolio](./assets/images/work.jpg)
 
-LINKS HERE
+![Contact](./assets/images/comm.jpg)
 
 ## Features
 
-TEXT HERE
+The user is presented with and updated portfolio page, with links to two exemplary homework assignments, and a communication page.
+
+The user can view an updated GitHub profile, with pinned repositories two exemplary assignments.
+
+The user can view an updated LinkedIn profile, with current activities and past education and experience listed.
+
+The user can view an updated resume. 
+
+The user can navigate between all pages using the navigation bar. 
