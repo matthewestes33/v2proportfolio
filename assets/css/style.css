@@ -24,13 +24,13 @@ h3 {
   
 h1 {
     font-size: 30px;
-    line-height: 49px;
+    line-height: 50px;
     border-bottom: 3px solid #ddd;
 }
   
 h2,
 h3 {
-    font-size: 22px;
+    font-size: 24px;
 }
   
 #masthead {
@@ -76,7 +76,7 @@ nav-wrapper {
 footer {
     content: 0 0 50px 0;
     clear: both;
-    font-size: 12px;
+    font-size: 15px;
     color: #fff;
     color: #ccc;
     text-align: center;
@@ -112,7 +112,7 @@ h3, h2 {
 .works {
     position: relative;
     float: left;
-    width: 274px;
+    width: 275px;
     margin: 20px 0 25px;
     overflow: none;
 }
@@ -123,7 +123,7 @@ h3, h2 {
   
 .works img {
     height: 205.5px;
-    width: 274px;
+    width: 275px;
     /* width: 100%; */
     border: 0 none;
     opacity: 0.8;
@@ -172,7 +172,7 @@ input[type=email],
 textarea {
     height: 35px;
     padding: 0 10px;
-    font-size: 14px;
+    font-size: 15px;
     border: 1px solid #ddd;
 }
   
